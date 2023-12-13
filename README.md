@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adamus90
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently trying to learn HTML, CMS, JavaScript, Python 
+- 🌱 I’m currently trying to learn HTML, JavaScript, Python 
 
 <!---
 Adamus90/Adamus90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
